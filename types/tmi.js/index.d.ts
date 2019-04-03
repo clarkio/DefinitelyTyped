@@ -118,6 +118,7 @@ export interface Badges {
     staff?: string;
     turbo?: string;
     premium?: string;
+    vip?: string;
 }
 
 export interface SubMethods {
